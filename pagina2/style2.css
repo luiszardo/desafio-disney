@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    cursor: url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAfwAAAOqAAAHqgAAB6sAAA//AAAd/wAAGf8AAAG9AAABtAAAAYAAAAGAAAABgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////gn///4B///8Af//+AD///AA///wAH//4AB//8AAf//AAH//5AB///wA///8A////D////w////8P////n////////////////////////////////////////////8='), auto;
+}
+header{
+    background-color: black;
+    width: 1361px;
+}
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-family: "Cherry Bomb One";
+    color: white;
+}
+h2{
+    text-align: center;
+    font-size: 32px;
+    font-family: "PT Sans"; 
+    letter-spacing: 5px;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    font-family: "PT Sans";
+    font-size: 1rem;
+    }
+.disneyplus{
+    height: 500px;
+    width: 1361px;
+}
+.ficção{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 150px;
+}
+.animação{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 150px;
+}
+.ação{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 150px;
+}
+
+fieldset{
+    background-color: black;
+}
+section.footer { 
+    margin-left: 1100px;
+}
+footer{
+    background-color: black;
+    width: 1361px;
+    height: 160px;
+  }
+.voltar{
+    text-align: center;
+    padding-top: 20px;
+}
+.terror{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 150px;
+}

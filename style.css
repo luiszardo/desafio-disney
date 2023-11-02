@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAfwAAAOqAAAHqgAAB6sAAA//AAAd/wAAGf8AAAG9AAABtAAAAYAAAAGAAAABgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////gn///4B///8Af//+AD///AA///wAH//4AB//8AAf//AAH//5AB///wA///8A////D////w////8P////n////////////////////////////////////////////8='), auto;
+}
+header{
+    background-color: black;
+    width: 1361px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: "Cherry Bomb One";
+}
+
+ul{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin-top: 15px;
+    padding-left: 60px;
+    font-size: 32px;
+    color: white;
+    font-family: "Cherry Bomb One";
+}
+li a{
+  text-decoration: none;
+  list-style: none;
+  color: #ffffff;
+}
+li a:hover {
+    color: #add8e6;
+}
+.disney{
+    height: 690px;
+    width: 1361px;
+}
+figure{
+    display: inline-block;
+}
+.filmes{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    margin-left: 150px;
+  }
+  .segundaSessão{
+    margin-top: 40px;
+  }
+  footer{
+    background-color: black;
+    width: 1361px;
+    height: 160px;
+  }
+  p{
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+  font-family: "PT Sans";
+  font-size: 1rem;
+  }
+
+  .footer {
+    margin-left: 10px;
+    display: inline-block;
+  }
+  img.Instagram {
+    height: 50px;
+    width: 50px;
+  }
+  img.Youtube {
+    height: 50px;
+    width: 50px;
+  }
+  img.Disney {
+    height: 50%;
+    width: 70px;
+  }
+  .terceiraSessão{ 
+    margin-left: 1100px; 
+  
+  }
+label{
+    color: white;
+}
+
+    
+    
